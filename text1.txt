@@ -1,0 +1,10 @@
+ Volume in drive C is win 8 
+ Volume Serial Number is 0E99-9533
+
+ Directory of C:\Users\dcs\Desktop\MyGitProject
+
+04/28/2017  04:32 PM    <DIR>          .
+04/28/2017  04:32 PM    <DIR>          ..
+04/28/2017  04:32 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  55,997,538,304 bytes free
